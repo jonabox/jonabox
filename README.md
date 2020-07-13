@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub page 👋
 
-I am a Puerto Rican grad student at MIT studying Computer Systems and Security. I'll be job searching this fall for software roles. Wish me luck!
+I am a Puerto Rican grad student at MIT studying Computer Systems and Security.
 
 <!--
 **jonabox/jonabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
